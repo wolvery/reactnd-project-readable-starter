@@ -12,14 +12,21 @@ To get started developing right away:
     - `cd api-server`
     - `npm install`
     - `node server`
+<<<<<<< HEAD
 * In another terminal window, install and start the pre-scaffolded Create React App project
     - `cd frontend`
     - `npm install`
+=======
+* In another terminal window, use Create React App to scaffold out the front-end
+    - `create-react-app frontend`
+    - `cd frontend`
+>>>>>>> dc5e6d12f923b5e43b56c865679856a376004345
     - `npm start`
 
 ## API Server
 
 Information about the API server and how to use it can be found in its [README file](api-server/README.md).
+<<<<<<< HEAD
 
 ## Access The API Server
 
@@ -61,3 +68,5 @@ To run outside of the Workspace, please do not include the credentials. For exam
   ```
 
 You can see this in action in `frontend/src/App.js` in `componentDidMount`.
+=======
+>>>>>>> dc5e6d12f923b5e43b56c865679856a376004345
